@@ -11,7 +11,7 @@ public class App
 	private static final Logger LOG=LogManager.getLogger(App.class);
     public static void main( String[] args )
     {
-    	String message="Hello,World";
+    	String message="Hello I am learning Java";
     	LOG.debug(message + "Will Be Printed on Debug");
     	LOG.info(message + "Will Be Printed on Info");
     	LOG.warn(message + "Will Be Printed on Warn");
